@@ -1,7 +1,4 @@
-
-
 {
-  "mongoURI": "mongodb://camlavallie:Jesusfirst7!@ds062339.mlab.com:62339/elena-kathryn",
   "jwtSecret": "elena_jwtPrivateKey",
-  "db": "mongodb://camlavallie:Jesusfirst7!@ds062339.mlab.com:62339/elena-kathryn"
+  "db": "mongodb://elenakathryn:Jesusfirst7!@ds062339.mlab.com:62339/elena-kathryn"
 }
