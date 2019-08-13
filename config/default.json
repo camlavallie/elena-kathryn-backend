@@ -1,5 +1,7 @@
+
+
 {
-  "mongoURI": "mongodb+srv://elenalavallie:Jesusfirst7!@elena-kathryn-5qngh.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "elena-kathryn-backend_jwtPrivateKey",
-  "db": "mongodb+srv://elenalavallie:Jesusfirst7!@elena-kathryn-5qngh.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb://camlavallie:Jesusfirst7!@ds062339.mlab.com:62339/elena-kathryn",
+  "jwtSecret": "elena_jwtPrivateKey",
+  "db": "mongodb://camlavallie:Jesusfirst7!@ds062339.mlab.com:62339/elena-kathryn"
 }

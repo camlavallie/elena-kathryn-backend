@@ -97,3 +97,10 @@ router.post(
 
 
 module.exports = router;
+
+
+
+
+  // "mongoURI": "mongodb+srv://elenalavallie:Jesusfirst7!@elena-kathryn-5qngh.mongodb.net/test?retryWrites=true&w=majority",
+  // "jwtSecret": "elena-kathryn-backend_jwtPrivateKey",
+  // "db": "mongodb+srv://elenalavallie:Jesusfirst7!@elena-kathryn-5qngh.mongodb.net/test?retryWrites=true&w=majority"
